@@ -138,4 +138,4 @@ async def weird(ctx):
 
 
 
-client.run('ODEwNTgwMzY4Njg3MzY2MTY0.YCltyw.blU3RZBEdwysQy2iwsMtoT6Qjcc')
+client.run('[DISCORD BOT KEY]')
